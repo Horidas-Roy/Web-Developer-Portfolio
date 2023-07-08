@@ -189,4 +189,14 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 113px;
+}
+/* footer related style */
+.footer-container{
+    display: flex;
+    
+    background: #FFF8F3;
+    width: 100vw;
+    height: 400px;
+   padding: 130px 230px;
 }
